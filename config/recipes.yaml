@@ -1,0 +1,28 @@
+recipe:
+    1:
+        name: 'Espaguetis amb tomaquet'
+        ingredients:
+            basics:
+                espaguetis: '100 g'
+                tomaquet: '3 cullerades'
+                sal: 'un grapadet'
+            extras:
+                formatge: '1 grapat'
+                tonyina: '1 llauna'
+        steps:
+            1: 'Posem aigua a bullir a una cassola mitjana'
+            2: 'etc1'
+            3: 'etc2'
+    2:
+        name: 'Truita de patata'
+        ingredients:
+            basics:
+                patates: '2 unitats'
+                ous: '4 ous'
+                oli: 'cobrint 1 dit a la paella'
+            extras:
+                ceba: 'mitja ceba'
+        steps:
+            1: 'Calentem oli a una paella gran'
+            2: 'etc1'
+            3: 'etc2'
