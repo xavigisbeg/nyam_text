@@ -1,4 +1,4 @@
-recipe:
+recipes:
     1:
         name: 'Espaguetis amb tomaquet'
         ingredients:
@@ -10,9 +10,16 @@ recipe:
                 formatge: '1 grapat'
                 tonyina: '1 llauna'
         steps:
-            1: 'Posem aigua a bullir a una cassola mitjana'
-            2: 'etc1'
-            3: 'etc2'
+            - name: step1
+              text: 'Posem aigua a bullir a una cassola mitjana'
+            - name: step2
+              text: 'Tirem els espaguetis i els bullim 3 minuts'
+            - name: step3
+              text: 'Escurrim els espaguetis'
+            - name: step4
+              text: 'Els posem a un plat i tirem dues cullerades de tomaquet per persona'
+            - name: step5
+              text: 'Extra: Afegim una mica de formatge'
     2:
         name: 'Truita de patata'
         ingredients:
